@@ -1,12 +1,17 @@
-# Hi, I'm Nokubonga 
+<h1 align="center">Hi, I'm Nokubonga </h1>
 
-<img width="235" height="217" alt="image" src="https://github.com/user-attachments/assets/8d141cf3-e104-45c6-bbf3-c853312bd574" />
+<p align="center">
+<img src="<img width="235" height="217" alt="image" src="https://github.com/user-attachments/assets/5c5ed0c4-d68b-46a8-8c55-f0c8b6c54d5e" />
+" width="150" style="border-radius: 50%;" />
+</p>
 
-
-
-Banking | Data Science Secondee | Data Analytics | Power BI | Python | Fintech
-
+<p align="center">
 Durban, South Africa
+</p>
+
+<p align="center">
+Banking | Data Science Secondee | Data Analytics | Power BI | Python | Fintech
+</p>
 
 ## About Me
 Analytical and sales-driven banking professional with experience in client service, operations, and data analysis as a Universal Banker and secondee in Data Science and Advanced Analytics. Skilled in Excel and Power BI for data cleaning, aggregation, and reporting, with a strong interest in using data-driven insights to improve client experience, support credit decision-making, and enhance operational efficiency. Holds a Bachelor of Science and a Postgraduate Diploma in Finance, Banking and Investment Management, and is currently pursuing a BSc in Information Technology (Emerging Technologies).
