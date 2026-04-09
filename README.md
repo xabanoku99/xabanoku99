@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Nokubonga </h1>
 
 <p align="center">
-📍 Durban, South Africa
-</p>
-
-<p align="center">
 Durban, South Africa
 </p>
 
