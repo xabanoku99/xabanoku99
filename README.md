@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nokubonga 👋</h1>
 
 <p align="center">
-<img src="<img width="390" height="371" alt="Screenshot 2026-04-09 133620" src="https://github.com/user-attachments/assets/197f79b9-3151-4dce-b12c-f0da12f3850c" />
+<img src="<img width="390" height="371" alt="Screenshot 2026-04-09 133620" src="https://github.com/user-attachments/assets/3fe8571c-567e-485c-bb05-98570bc50b09" />
 " width="235" height="217" style="border-radius: 50%;" />
 </p>
 
