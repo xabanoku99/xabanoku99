@@ -44,9 +44,6 @@ BCB Email Escalation Automation & Dashboard (BCB Automation Team & Customer Serv
 ---
 
 ## Career Focus
-I am focused on growing into a Data Analyst / Data Science role within the bankin, using data to drive business insights and strategic decision. 
+Career focused on using data analysis to drive business insights and strategic decision. 
 - LinkedIn: https://www.linkedin.com/in/nokubonga-x-ba54061b3/
 
----
-
- *Turning data into meaningful business insights.*
