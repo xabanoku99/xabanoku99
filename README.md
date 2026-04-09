@@ -24,9 +24,9 @@ Analytical and sales-driven banking professional with experience in client servi
 ---
 
 ## Featured Project
-Data Science Secondee: BCB Advanced Analytics and Automation
+*Data Science Secondee: BCB Advanced Analytics and Automation
 BCB Email Escalation Automation & Dashboard (BCB Automation Team & Customer Service and Experience Collaboration)
-
+*
 -Contributed to a project addressing delayed email responses from Relationship Bankers impacting client service.
 - Cleaned and prepared raw data to ensure accuracy and usability & Aggregated data at customer and Relationship Manager level for analysis.
 - Supported development of a Power BI dashboard to track email escalations and responses.
