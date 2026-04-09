@@ -9,7 +9,7 @@ Banking | Data Science Secondee | Data Analytics | Power BI | Python | Fintech
 Durban, South Africa
 
 ## About Me
-I am a Universal Banker at Standard Bank and a Data Science Secondee with a strong passion for data analytics and technology. I combine business knowledge with technical skills to solve problems and support data-driven decision-making.
+Analytical and sales-driven banking professional with experience in client service, operations, and data analysis as a Universal Banker and secondee in Data Science and Advanced Analytics. Skilled in Excel and Power BI for data cleaning, aggregation, and reporting, with a strong interest in using data-driven insights to improve client experience, support credit decision-making, and enhance operational efficiency. Holds a Bachelor of Science and a Postgraduate Diploma in Finance, Banking and Investment Management, and is currently pursuing a BSc in Information Technology (Emerging Technologies).
 
 ---
 
