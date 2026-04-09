@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nokubonga 👋</h1>
+<h1 align="center">Hi, I'm Nokubonga Xaba </h1>
 
 
 <p align="center">
