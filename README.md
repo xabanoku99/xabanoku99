@@ -1,6 +1,7 @@
 # Hi, I'm Nokubonga 👋
 
-![WhatsApp Image 2026-04-09 at 13 12 00](https://github.com/user-attachments/assets/8c34d963-d612-4c46-8b15-89de9d000dfe)
+<img width="235" height="217" alt="image" src="https://github.com/user-attachments/assets/8d141cf3-e104-45c6-bbf3-c853312bd574" />
+
 
 
 Banking | Data Science Secondee | Data Analytics | Power BI | Python | Fintech
