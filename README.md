@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Nokubonga 👋
 
-<!--
-**xabanoku99/xabanoku99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Banking | Data Science Secondee | Data Analytics | Power BI | Python | Fintech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durban, South Africa
+
+## 🚀 About Me
+I am a Universal Banker at Standard Bank and a Data Science Secondee with a strong passion for data analytics and technology. I combine business knowledge with technical skills to solve problems and support data-driven decision-making.
+
+---
+
+## 🛠️ Skills
+- Power BI  
+- Excel  
+- SQL  
+- Python  
+- Data Visualization  
+- Business Analysis  
+
+---
+
+## 📊 Featured Project
+### BCB SLA Tracking Dashboard (Power BI)
+- Built an interactive dashboard to track email escalations and response times  
+- Included drilldowns, filters, and real-time insights  
+- Improved visibility and operational efficiency
+  <img width="1190" height="658" alt="Screenshot 2026-04-09 130027" src="https://github.com/user-attachments/assets/61999d5f-9f0f-498e-a44d-d01dd26c6377" />
+
+---
+
+## 🌱 Currently Learning
+- Advanced Python for Data Analysis  
+- Data Analytics & Visualization  
+- Emerging Technologies (AI & automation)
+
+---
+
+## 🎯 Career Focus
+I am focused on growing into a Data Analyst / Data Science role within the bankin, using data to drive business insights and strategic decision. 
+- LinkedIn: https://www.linkedin.com/in/nokubonga-x-ba54061b3/
+
+---
+
+⭐ *Turning data into meaningful business insights.*
