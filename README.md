@@ -1,4 +1,4 @@
-# Hi, I'm Nokubonga 👋
+# Hi, I'm Nokubonga 
 
 <img width="235" height="217" alt="image" src="https://github.com/user-attachments/assets/8d141cf3-e104-45c6-bbf3-c853312bd574" />
 
@@ -8,12 +8,12 @@ Banking | Data Science Secondee | Data Analytics | Power BI | Python | Fintech
 
 Durban, South Africa
 
-## 🚀 About Me
+## About Me
 I am a Universal Banker at Standard Bank and a Data Science Secondee with a strong passion for data analytics and technology. I combine business knowledge with technical skills to solve problems and support data-driven decision-making.
 
 ---
 
-## 🛠️ Skills
+## Skills
 - Power BI  
 - Excel  
 - SQL  
@@ -23,8 +23,13 @@ I am a Universal Banker at Standard Bank and a Data Science Secondee with a stro
 
 ---
 
-## 📊 Featured Project
-### BCB SLA Tracking Dashboard (Power BI)
+## Featured Project
+Data Science Secondee: BCB Advanced Analytics and Automation
+BCB Email Escalation Automation & Dashboard (BCB Automation Team & Customer Service and Experience Collaboration)
+
+-Contributed to a project addressing delayed email responses from Relationship Bankers impacting client service.
+- Cleaned and prepared raw data to ensure accuracy and usability & Aggregated data at customer and Relationship Manager level for analysis.
+- Supported development of a Power BI dashboard to track email escalations and responses.
 - Built an interactive dashboard to track email escalations and response times  
 - Included drilldowns, filters, and real-time insights  
 - Improved visibility and operational efficiency
@@ -32,17 +37,17 @@ I am a Universal Banker at Standard Bank and a Data Science Secondee with a stro
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced Python for Data Analysis  
 - Data Analytics & Visualization  
 - Emerging Technologies (AI & automation)
 
 ---
 
-## 🎯 Career Focus
+## Career Focus
 I am focused on growing into a Data Analyst / Data Science role within the bankin, using data to drive business insights and strategic decision. 
 - LinkedIn: https://www.linkedin.com/in/nokubonga-x-ba54061b3/
 
 ---
 
-⭐ *Turning data into meaningful business insights.*
+ *Turning data into meaningful business insights.*
