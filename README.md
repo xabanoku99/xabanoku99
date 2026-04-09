@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Nokubonga </h1>
 
-<img width="195" height="185" alt="image" src="https://github.com/user-attachments/assets/1619c4c6-9ed9-4e15-a3a4-32e2d1b124d5" />
+<p align="center">
+<img src="<img width="195" height="185" alt="image" src="https://github.com/user-attachments/assets/e8b36ced-eef0-434f-a414-4851523db78b" />
+" width="235" height="217" style="border-radius: 50%;" />
+</p>
 
 <p align="center">
 Durban, South Africa
