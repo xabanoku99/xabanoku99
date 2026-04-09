@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Nokubonga </h1>
 
 <p align="center">
-<img src="<img width="235" height="217" alt="image" src="https://github.com/user-attachments/assets/5c5ed0c4-d68b-46a8-8c55-f0c8b6c54d5e" />
+<img src="<<p align="center">
+<img src="profile.png" width="235" height="217" style="border-radius: 50%;" />
+</p>" alt="image" src="https://github.com/user-attachments/assets/2f900470-e9df-4e18-8c0c-568cf8f6536a" />
+" src="https://github.com/user-attachments/assets/5c5ed0c4-d68b-46a8-8c55-f0c8b6c54d5e" />
 " width="150" style="border-radius: 50%;" />
 </p>
 
