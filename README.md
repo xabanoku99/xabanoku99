@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Nokubonga </h1>
+<h1 align="center">Hi, I'm Nokubonga 👋</h1>
 
 <p align="center">
-Durban, South Africa
+<img src=""C:\Users\a249028\Pictures\Screenshots\Screenshot 2026-04-09 133620.png"" width="235" height="217" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-Banking | Data Science Secondee | Data Analytics | Power BI | Python | Fintech
+📍 Durban, South Africa
 </p>
 
 ## About Me
