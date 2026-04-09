@@ -35,7 +35,9 @@ BCB Email Escalation Automation & Dashboard (BCB Automation Team & Customer Serv
 ---
 
 ## Currently Learning
-- Advanced Python for Data Analysis  
+- Currently working on AI agent initiatives within the BCB unit, focusing on leveraging artificial intelligence to improve banking processes, automate workflows, and enhance decision-making.
+- Azure
+- advanced phython & data analysis
 - Data Analytics & Visualization  
 - Emerging Technologies (AI & automation)
 
