@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Nokubonga Xaba </h1>
 
+<p align="center">
+<img src="WhatsApp Image 2026-04-09 at 13.12.00.jpg" width="180" style="border-radius: 50%;" />
+</p>
+
 
 <p align="center">
 📍 Durban, South Africa
@@ -33,6 +37,28 @@ BCB Email Escalation Automation & Dashboard (BCB Automation Team & Customer Serv
   <img width="1190" height="658" alt="Screenshot 2026-04-09 130027" src="https://github.com/user-attachments/assets/61999d5f-9f0f-498e-a44d-d01dd26c6377" />
 
 ---
+
+## Certifications
+
+###  AI & Generative AI
+- Prompt Engineering: How to Talk to AI  
+- Introduction to Prompt Engineering  
+- Generative AI for Business Leaders  
+- Ethics in the Age of Generative AI  
+- AI Agents: Exploring the Workplace  
+- Making the Business Case for AI  
+- What is Generative AI  
+
+###  Data Analytics
+- Learning Data Science  
+- Data Governance  
+- Data Visualization (Storytelling & Analytics)  
+- Power BI Essential Training  
+- SQL for Data Analytics  
+
+###  Development & Technology
+- FNB App Academy (Full Stack Development)  
+- AWS Introduction to Robotics  
 
 ## Currently Learning
 - Currently working on AI agent initiatives within the BCB unit, focusing on leveraging artificial intelligence to improve banking processes, automate workflows, and enhance decision-making.
