@@ -4,7 +4,6 @@
 <img src="WhatsApp Image 2026-04-09 at 13.12.00.jpg" width="180" style="border-radius: 50%;" />
 </p>
 
-
 <p align="center">
 📍 Durban, South Africa
 </p>
